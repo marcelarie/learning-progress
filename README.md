@@ -2,7 +2,7 @@
 
 If you are looking here maybe you are searching to much!! \#:()
 
-The plan is to use this repo to write about all the concepts that I don't 
+The plan its to use this repo to write about all the concepts that I don't 
 understand (for now) and use some technique to learn it better.
 
 Recently I am all about the Feynman Learning Technique, so lets see how this 
